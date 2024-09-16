@@ -3,6 +3,8 @@
 ## Info
 This is a CT module installer [made by me @donskyblock]. So is Vaje installer but since you can install any ct module [jus download the source and change the link it gets the github download from lol], This was made because people are declining me on the CT website for there own hypocritical reasons, if you want more info please look into it through me through discord (mentioned later in here )
 
+# You Need python to be installed for this an FYI
+
 ## Support Me / Contact Me
 ## Discord: https://vajeservices.xyz/discord
 ## Patreon: https://vajeservices.xyz/patreon
