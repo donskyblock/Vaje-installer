@@ -17,7 +17,8 @@ DOWNLOAD_URL = "https://vajeservices.xyz/downloadvaje"
 DESTINATION_DIR = os.path.expandvars(r"%appdata%\.minecraft\config\chattriggers\modules")
 
 # Set the console title
-os.system("title Vaje Installer")
+os.system("cls")
+os.system("title Vaje Installer (Made By Donskyblock)")
 
 def print_rainbow_text(text):
     colors = ['red', 'yellow', 'green', 'cyan', 'blue', 'magenta']
