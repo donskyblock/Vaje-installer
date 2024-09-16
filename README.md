@@ -10,3 +10,5 @@ This is a CT module installer [made by me @donskyblock]. So is Vaje installer bu
 
 ## Jus Extra info
 Honestly Idc wat you think of me, everything I make but my website + api stuff is fully open source, all my bots are private aswell, but that is for the reason that how they are done can be used unethically if in the wrong hands, No matter how simple it is, I dont feel like being supporting those who do it like that 
+
+# ITS WINDOWS ONLY RN  I WILL MAKE A LINUX VERSION SOON O7
